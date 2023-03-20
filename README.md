@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Mangi Nikhil
 
+<!-- ![](https://komarev.com/ghpvc/?username=MangiNikhil)
+-->
+
 <!--
 **MangiNikhil/MangiNikhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
