@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on FullStack Devlopment, DevOps , Cloud Computing
 - 👯 I’m looking to collaborate on  Frontend Development , IoT projects 
-- 💬 Ask me about Problem Solving
+- 💬 Ask me about Grinding Algorithms , Problem Solving 
 - 📫 How to reach me:  manginikhil2003@gmail.com 
 
 
